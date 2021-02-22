@@ -1,0 +1,25 @@
+.title{
+    text-align: center;
+    font-family: cursive;
+    
+}
+/**/
+.num-adder-container{
+    position: relative;
+    border-style: dashed; /*I do this so I have a visual on the containers themsevles*/
+    font-family: cursive;
+    font-size: x-large;
+}
+
+.input-box{
+    position: relative;
+    display: inline;
+}
+
+.button{
+    width: 200px;
+}
+
+.date{
+    font-family: cursive;
+}
