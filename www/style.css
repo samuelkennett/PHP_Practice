@@ -3,8 +3,8 @@
     font-family: cursive;
     
 }
-/**/
-.num-adder-container{
+
+.container{
     position: relative;
     border-style: dashed; /*I do this so I have a visual on the containers themsevles*/
     font-family: cursive;
@@ -22,4 +22,8 @@
 
 .date{
     font-family: cursive;
+}
+
+.password-box{
+    border-radius: 20px;
 }
